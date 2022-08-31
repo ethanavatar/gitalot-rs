@@ -13,7 +13,7 @@ https://github.com/ethanavatar/getignore-rs.git
 ```
 
 ```bash
-$ gitalot clone example.txt
+$ gitalot clone example.txt dest/
 ...
 ```
 
